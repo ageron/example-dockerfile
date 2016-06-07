@@ -2,7 +2,7 @@
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-dockerfile)
 
-A Binder-compatibible repository that contains its own `Dockerfile`.
+A Binder-compatible repository that contains its own `Dockerfile`.
 
 Your `Dockerfile` just needs to extend from the [`base`](https://github.com/binder-project/binder/blob/master/images/base/Dockerfile) image for Binder.
 
